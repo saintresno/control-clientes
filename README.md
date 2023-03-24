@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Prove the aplication
 
 https://control-clientes-9b40e.web.app
+
+use the username "prueba@mail.com" and the password "123456"
